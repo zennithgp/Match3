@@ -22,7 +22,6 @@ public class GameManagerScript : MonoBehaviour {
 
 	protected Object[] tokenTypes;
 
-	//TODO: use this variable. It doesn't seem to be used anywhere.
 	GameObject selected;
 
 	public virtual void Start () {
