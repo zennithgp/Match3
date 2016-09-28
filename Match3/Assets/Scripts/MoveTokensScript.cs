@@ -55,7 +55,7 @@ public class MoveTokensScript : MonoBehaviour
     {
         move = true; //The tokens are now moving.
         lerpPercent = 0; //Reset the lerp percentage to 0 so that tokens don't move until the right time.
-		Debug.Log("Tokens are good to move!");
+//		Debug.Log("Tokens are good to move!");
     }
 
     /// <summary>
